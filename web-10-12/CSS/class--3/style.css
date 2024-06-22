@@ -1,0 +1,41 @@
+
+p {
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-style: normal;
+
+  /* letter-spacing: 7px; */
+  /* word-spacing: 7px; */
+  /* line-height: 1.6; */
+
+  /* text-align: justify; */
+  /* text-decoration: underline wavy red; */
+  /* text-transform: lowercase; */
+
+}
+
+/* Styling links: Order: LVHA */
+
+div a:link {
+  color: yellow;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+div a:visited {
+  color: cyan;
+}
+
+div a:hover {
+  color: crimson;
+  background-color: black;
+  text-decoration: underline wavy red;
+  font-weight: 500;
+}
+
+div a:active {
+  color: coral;
+  font-weight: 700;
+  text-decoration: underline wavy blue;
+}

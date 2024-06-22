@@ -1,0 +1,46 @@
+
+/* Inheritance */
+
+body {
+  font-size: 55px;
+  font-family: sans-serif;
+  
+  /* border-width: 5px;
+  border-style: double;
+  border-color: purple; */
+}
+
+.primary--heading {
+  /* border-width: 7px 14px 3px 20px;
+  border-style: dashed dotted solid double;
+  border-color: aqua blue red purple; */
+
+  border: 5px double red;
+
+  border-top-color: blue;
+  border-right-color: aqua;
+  border-bottom-width: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Universal selector */
+
+/* 
+
+* {
+  border-width: 5px;
+  border-style: solid;
+  border-color: purple;
+} 
+
+*/

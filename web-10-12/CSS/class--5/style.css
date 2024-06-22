@@ -1,0 +1,53 @@
+
+p {
+  /* display: inline; */
+  /* display: none; */
+  padding: 15px;
+  height: 200px;
+  width: 200px;
+}
+
+a:link {
+  /* display: block; */
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  padding: 50px;
+  margin: 30px;
+  /* margin: 0 auto;
+  text-align: center; */
+}
+
+img {
+  height: 100px;
+  width: 150px;
+  padding: 20px;
+  margin: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* LVHA */
+a:link,
+a:visited {
+  color: aquamarine;
+  text-decoration: none;
+  transition: all 3s;
+}
+
+a:hover, 
+a:active {
+  color: magenta;
+  font-size: 18px;
+  text-decoration: underline wavy magenta;
+}
+

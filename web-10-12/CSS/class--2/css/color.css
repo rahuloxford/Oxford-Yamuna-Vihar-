@@ -1,0 +1,20 @@
+.top-container {
+  /* Using color name */
+  /* background-color: aqua; */
+
+  /* Using rgb value */
+  /* color: rgb(230, 56, 56);
+  background-color: rgb(90, 179, 117); */
+
+  /* Using rgba value */
+  /* color: rgba(0, 255, 255, 0.95); */
+
+  /* Using hex value */
+  /* background-color: #ff89bb; */
+
+  /* Using hsl value */
+  /* background-color: hsl(308, 100%, 58%); */
+
+  /* Using hsla value */
+  background-color: hsla(120, 50%, 80%, 0.85);
+}
